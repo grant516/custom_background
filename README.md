@@ -4,8 +4,6 @@ The Software I wrote is a google extention that allows me to have a changing wal
 
 The reason I wrote this is because currrently Google allows you to add a theme or/and a background image, but I wanted a slide show, so every time I went to the website, I would get a different image. I felt it would alow me to have a more unique experience online.
 
-{Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the software running and a walkthrough of the code.}
-
 [Software Demo Video](https://youtu.be/rEQMKENqq14)
 
 # Development Environment
